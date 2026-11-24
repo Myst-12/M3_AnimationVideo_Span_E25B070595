@@ -39,5 +39,5 @@ python add_music.py media/videos/span_basis_dimension/1080p30/SpanBasisDimension
 ## Credits & AI disclosure
 - Animation: [Manim Community Edition](https://www.manim.community/)
 - References: G. Strang, *Introduction to Linear Algebra*, Ch. 3; 3Blue1Brown, *Essence of Linear Algebra*, Ch. 2
-- Music: "Inspired" by Kevin MacLeod ([incompetech.com](https://incompetech.com)), licensed under [Creative Commons: By Attribution 4.0](https://creativecommons.org/licenses/by/4.0/). (Earlier drafts used "Thinking Music" by Kevin MacLeod, CC BY 4.0, which is still named on the end screen.)
+- Music: "Inspired" by Kevin MacLeod ([incompetech.com](https://incompetech.com)), licensed under [Creative Commons: By Attribution 4.0](https://creativecommons.org/licenses/by/4.0/).
 - **AI disclosure:** I used AI (Claude by Anthropic) to help create the visuals and animations, to write the animation code, and for parts of the narration script. All mathematics was checked by hand, and the voice-over is my own.

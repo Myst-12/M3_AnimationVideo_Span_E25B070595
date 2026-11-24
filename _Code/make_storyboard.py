@@ -98,7 +98,7 @@ def main(video, pdf_path):
         "• Voice-over is timed to the scenes; every scene begins at a fixed second via self.until(t).\n"
         "• Look: dark navy background with vignette, rounded info cards, animated chapter titles, "
         "and a chapter progress bar along the bottom.\n"
-        "• Music: \"Thinking Music\" by Kevin MacLeod (incompetech.com), CC BY 4.0, looped to 5:00 and "
+        "• Music: \"Inspired\" by Kevin MacLeod (incompetech.com), CC BY 4.0, looped to 5:00 and "
         "mixed quietly (about −31 dB) under the voice; credited on the end screen.\n"
         "• Maths verification: every combination recomputed by hand; det[[1,3],[2,1]] = −5 (non-zero); "
         "2(1,2) + (3,1) = (5,5); (1,2) + (4,3) = (5,5); (−1,1,2.5) is not of the form (2s, 2t, s+t).")
