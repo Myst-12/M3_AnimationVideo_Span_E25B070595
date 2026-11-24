@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+_Code/media/
+.DS_Store
+Inspired_5min.wav
+Narration_Script.md
